@@ -12,6 +12,6 @@ namespace 渠道客服系统
         public string UID { get; set; }
         public string NAME { get; set; }
         public string SEX { get; set; }
-        public int AGE { get; set; }
+
     } 
 }
