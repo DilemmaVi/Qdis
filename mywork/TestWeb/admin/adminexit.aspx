@@ -1,1 +1,0 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="adminexit.aspx.cs" Inherits="admin_adminexit" %>
