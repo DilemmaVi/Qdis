@@ -1671,6 +1671,7 @@
     <Content Include="Nhome\MP.Master" />
     <Content Include="LogConfig\Log4Net.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <None Include="Properties\PublishProfiles\IS.pubxml" />
     <None Include="Web.Debug.config">

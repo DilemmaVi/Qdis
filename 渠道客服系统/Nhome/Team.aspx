@@ -311,6 +311,25 @@
                 </div>
               </div>
             </li>
+
+            <li>
+              <i class="fa fa-video-camera bg-maroon"></i>
+
+              <div class="timeline-item">
+                <span class="time"><i class="fa fa-clock-o"></i> 这是小米客服内部一场让人万万没想到的比赛</span>
+
+                <h3 class="timeline-header"><a href="#">小米客服渠道</a> 知识竞赛-智在必得</h3>
+
+                <div class="timeline-body">
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="http://10.237.32.10/portal/News/Detail.action?id=16" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </div>
+                <div class="timeline-footer">
+                  <a href="#" class="btn btn-xs bg-maroon">小米客服渠道</a>
+                </div>
+              </div>
+            </li>
             <!-- END timeline item -->
           </ul>
         </div>

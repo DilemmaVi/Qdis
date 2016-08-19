@@ -12,7 +12,11 @@ namespace 渠道客服系统
 
         protected void Application_Start(object sender, EventArgs e)
         {
-            LogHelper.Info(this, "客户机IP：" + System.Web.HttpContext.Current.Request.UserHostAddress);
+            try
+            {
+                LogHelper.Info(this, "客户机IP：" + System.Web.HttpContext.Current.Request.UserHostAddress);
+            }
+            catch { }
         }
 
         protected void Session_Start(object sender, EventArgs e)
