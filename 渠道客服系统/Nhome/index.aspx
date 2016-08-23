@@ -161,7 +161,7 @@
             <i class="fa fa-calendar"></i> <span>意见反馈</span>
           </a>
         </li>
-        <li><a href="#"><i class="fa fa-book"></i> <span>部门文档</span></a></li>
+       <li><a href="/Nhome/document.aspx"><i class="fa fa-book"></i> <span>部门文档</span></a></li>
         <li><a href="#" id="exit" onclick="exit()"><i class="fa fa-sign-out"></i> <span>退出登录</span></a></li>
       </ul>
     </section>
